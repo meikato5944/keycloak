@@ -1,4 +1,4 @@
-##金融業務システムのオープンソース版のやつ
+# 金融業務システムのオープンソース版のやつ
 
 ![Keycloak](https://github.com/keycloak/keycloak-misc/blob/main/logo/logo.svg)
 
